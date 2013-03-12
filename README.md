@@ -1,5 +1,8 @@
 # Angular Express Bootstrap Seed
-(Forked from Angular Express Seed)
+btford/angular-express-seed started with Angular Express Bootstrap Seed.
+Than this got forked to jimakker/angular-express-bootstrap-seed.
+
+I have forked jimakker/angular-express-bootstrap-seed and merged in the latest changes by btford/angular-express-seed, bringing both lines together.
 
 Start an awesome app with AngularJS on the front, Express + Node on the back. This project is an
 application skeleton for a typical [AngularJS](http://angularjs.org/) web app for those who want
